@@ -14,7 +14,7 @@ I believe automation can free us from repetitive tasks, allowing us to focus on 
 ---
 
 ## 🛠️ Tech Stack  
-🔹 **Languages:** Python, Java, Kotlin, C, C++  
+🔹 **Languages:** Python, Java, Kotlin, C, C++, SQL
 🔹 **Technologies:** Embedded Systems, IoT, AI, Web Development, Databases, Android Development  
 🔹 **Tools & Platforms:** Git, Docker, Firebase, PyPI, Jetpack Compose  
 
