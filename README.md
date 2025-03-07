@@ -22,7 +22,8 @@ I believe automation can free us from repetitive tasks, allowing us to focus on 
 
 ## 🎯 Current Goals  
 🔥 Expanding my **open-source contributions**  
-📱 Building Android apps & **publishing on Google Play**  
+📱 Building Android apps & **publishing on Google Play**   
+🖥️ Developing apps for the **Microsoft Store to reach Windows users**   
 🛠️ Developing offline **AI-powered automation systems**  
 🚀 **Learning & mastering Java** for advanced development  
 
