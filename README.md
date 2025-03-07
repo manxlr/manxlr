@@ -33,14 +33,14 @@ I believe automation can free us from repetitive tasks, allowing us to focus on 
 ### 🚀 **Projects I'm Currently Working On**
 🔹 **[Everything App](https://github.com/manxlr/everythingapp)** - A multipurpose tool for daily tasks  
 🔹 **[File Extension Tree Viewer](https://github.com/manxlr/fileextensiontreeviewer)** - A Windows extension for analyzing file types  
-🔹 **[English Dictionary](https://github.com/manxlr/EnglishDictionary)** - AI-powered dictionary app  
 
 ---
 
 ### 🎯 **Completed Open-Source Projects for the Community**
 🔹 **[Android Image Resizer](https://github.com/manxlr/AndroidImageResizer)** - A tool to resize images for Android development  
 🔹 **[PyTemperatureConverter](https://github.com/manxlr/pytemperatureconverter)** - A Python package for temperature conversion  
-🔹 **[Currency Converter](https://github.com/manxlr/currency-converter)** - A simple currency conversion tool  
+🔹 **[Currency Converter](https://github.com/manxlr/currency-converter)** - A simple currency conversion tool
+🔹 **[English Dictionary](https://github.com/manxlr/EnglishDictionary)** - English dictionary app 
 
 ---
 
