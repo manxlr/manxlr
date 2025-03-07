@@ -31,6 +31,7 @@ I believe automation can free us from repetitive tasks, allowing us to focus on 
 ## 📌 Recent Work  
 
 ### 🚀 **Projects I'm Currently Working On**
+🔹 **[langchaindocumentloader](https://github.com/manxlr/langchaindocumentloader)** - A langchain prototype app for loading documents
 🔹 **[Everything App](https://github.com/manxlr/everythingapp)** - A multipurpose tool for daily tasks  
 🔹 **[File Extension Tree Viewer](https://github.com/manxlr/fileextensiontreeviewer)** - A Windows extension for analyzing file types  
 
