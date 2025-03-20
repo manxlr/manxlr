@@ -25,7 +25,8 @@ I believe automation can free us from repetitive tasks, allowing us to focus on 
 📱 Building Android apps & **publishing on Google Play**   
 🖥️ Developing apps for the **Microsoft Store to reach Windows users**   
 🛠️ Developing offline **AI-powered automation systems**  
-🚀 **Learning & mastering Java** for advanced development  
+🚀 **Learning & mastering Java** for advanced development
+💡**Learning DSA advanced** for getting work at AMZ/Google 
 
 ---
 
