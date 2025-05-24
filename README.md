@@ -1,7 +1,7 @@
 # Hi, I'm Zeeshan Khalid! 👋  
 
 🚀 **Research Engineer | Software Developer | Open-Source Enthusiast**  
-📍 Islamabad, Pakistan | ✉️ nszeeshankhalid@gmail.com  
+📍 Islamabad, Pakistan | ✉️ nszeeshankhalid@gmail.com  | **[manxlr.click](https://manxlr.click)**
 
 ---
 
