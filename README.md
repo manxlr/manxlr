@@ -26,7 +26,7 @@ I believe automation can free us from repetitive tasks, allowing us to focus on 
 🖥️ Developing apps for the **Microsoft Store to reach Windows users**   
 🛠️ Developing offline **AI-powered automation systems**  
 🤖 MT5 Indicators and EAs for development of **industry-leading trading bots**  
-🚀 **Learning & mastering Java** for advanced development
+🚀 **Learning & mastering Java** for advanced development    
 💡**Learning DSA advanced** for getting work at AMZ/Google 
 
 ---
