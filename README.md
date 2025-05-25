@@ -48,7 +48,9 @@ I believe automation can free us from repetitive tasks, allowing us to focus on 
 
 ---
 ### Microsoft Apps
-🔹 **[QuickConvert – Batch File Format Converter (PDF, Text, CSV, JSON, MD)](https://apps.microsoft.com/detail/9NZNN9KZZXMV?hl=en-us&gl=PK&ocid=pdpshare)** - convert multiple files from one format to another 
+🔹 **[QuickConvert – Batch File Format Converter (PDF, Text, CSV, JSON, MD)](https://apps.microsoft.com/detail/9NZNN9KZZXMV?hl=en-us&gl=PK&ocid=pdpshare)** - convert multiple files from one format to another (PDF, Text, CSV, JSON, MD)
+
+---
 
 ## 📫 Contact Me  
 📧 **Email:** nszeeshankhalid@gmail.com  
