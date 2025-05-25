@@ -14,7 +14,7 @@ I believe automation can free us from repetitive tasks, allowing us to focus on 
 ---
 
 ## 🛠️ Tech Stack  
-🔹 **Languages:** Python, Java, Kotlin, C, C++, SQL
+🔹 **Languages:** Python, Java, Kotlin, C, C++, SQL  
 🔹 **Technologies:** Embedded Systems, IoT, AI, Web Development, Databases, Android Development  
 🔹 **Tools & Platforms:** Git, Docker, Firebase, PyPI, Jetpack Compose  
 
@@ -48,7 +48,8 @@ I believe automation can free us from repetitive tasks, allowing us to focus on 
 
 ---
 ### Microsoft Apps
-🔹 **[QuickConvert – Batch File Format Converter (PDF, Text, CSV, JSON, MD)](https://apps.microsoft.com/detail/9NZNN9KZZXMV?hl=en-us&gl=PK&ocid=pdpshare)** - convert multiple files from one format to another (PDF, Text, CSV, JSON, MD)
+🔹 **[QuickConvert – Batch File Format Converter (PDF, Text, CSV, JSON, MD)](https://apps.microsoft.com/detail/9NZNN9KZZXMV?hl=en-us&gl=PK&ocid=pdpshare)** - convert multiple files from one format to another    
+🔹 **[Modern English Dictionary](https://apps.microsoft.com/detail/9PGM7MG6QRZL?hl=en-us&gl=PK&ocid=pdpshare)** - English Dictionary app with sleek interface
 
 ---
 
