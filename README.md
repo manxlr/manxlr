@@ -47,7 +47,8 @@ I believe automation can free us from repetitive tasks, allowing us to focus on 
 🔹 **[English Dictionary](https://github.com/manxlr/EnglishDictionary)** - English dictionary app 
 
 ---
-
+### Microsoft Apps
+🔹 **[QuickConvert – Batch File Format Converter (PDF, Text, CSV, JSON, MD)](https://apps.microsoft.com/detail/9NZNN9KZZXMV?hl=en-us&gl=PK&ocid=pdpshare)** - convert multiple files from one format to another 
 
 ## 📫 Contact Me  
 📧 **Email:** nszeeshankhalid@gmail.com  
