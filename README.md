@@ -2,16 +2,17 @@
 
 **Research Engineer | Software Developer | Open-Source Builder**
 
-📍 Islamabad, Pakistan  
 ✉️ [nszeeshankhalid@gmail.com](mailto:nszeeshankhalid@gmail.com)  
 🌐 [manxlr.click](https://manxlr.click)  
 💼 [github.com/manxlr](https://github.com/manxlr)
 
 ---
 
-## About Me
+## Profile
 
-I am a Research Engineer with **8+ years of experience** in Embedded Systems, IoT, Control Systems, AI Infrastructure, Software Testing, and Open-Source Contributions.
+<img src="https://manxlr.click/images/_DSC0057.avif" alt="Zeeshan Khalid profile" width="220" />
+
+I am a Research Engineer with **8+ years of experience** across Embedded Systems, IoT, Control Systems, AI Infrastructure, Software Testing, and Open-Source Contributions.
 
 I build automation-first products across:
 - **AI infrastructure and real-time AI applications**
@@ -26,14 +27,47 @@ I build automation-first products across:
 
 ## Tech Stack
 
-**Languages:** `Python` `Java` `Kotlin` `C` `C++` `SQL`  
-**Industrial & IoT:** `CODESYS` `Studio 5000 (Allen-Bradley)` `MQTT` `Node-RED` `Universal Robots` `Keyence Vision` `AWS IoT Core`  
-**AI Infrastructure:** `Open WebUI` `ComfyUI` `Tesseract OCR` `Apache Tika` `Whisper` `Piper TTS` `GPU Optimization`  
-**Frameworks & Tools:** `FastAPI` `Flask` `React` `JavaScript` `SQLite` `Docker` `Git` `Firebase` `Jetpack Compose`
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+### AI and Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open%20WebUI-111827?logo=ai&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-0F172A?logo=artstation&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-4285F4?logo=google&logoColor=white)
+![Apache Tika](https://img.shields.io/badge/Apache%20Tika-D22128?logo=apache&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-1F2937?logo=openai&logoColor=white)
+![Piper TTS](https://img.shields.io/badge/Piper%20TTS-4B5563?logo=soundcloud&logoColor=white)
+
+### Industrial and IoT
+![CODESYS](https://img.shields.io/badge/CODESYS-1E3A8A?logoColor=white)
+![Studio 5000](https://img.shields.io/badge/Studio%205000-991B1B?logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)
+![AWS IoT Core](https://img.shields.io/badge/AWS%20IoT%20Core-FF9900?logo=amazonaws&logoColor=black)
+![Universal Robots](https://img.shields.io/badge/Universal%20Robots-2563EB?logoColor=white)
+![Keyence Vision](https://img.shields.io/badge/Keyence%20Vision-334155?logoColor=white)
+
+### Frontend and Platform Tools
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?logo=android&logoColor=black)
 
 ---
 
 ## AI Infrastructure and Development
+
+<img src="https://manxlr.click/images/ai_deployment.avif" alt="AI infrastructure preview" width="100%" />
 
 I work across production AI infrastructure and hands-on AI applications, from GPU-backed private LLM stacks to real-time voice assistants.
 
@@ -79,6 +113,8 @@ Built for privacy, reliability, and practical usage across Microsoft Store, Andr
 
 ## Industrial and IoT Automation
 
+<img src="https://manxlr.click/images/industrial_control.avif" alt="Industrial automation preview" width="100%" />
+
 PLC programming, Node-RED flows, sensor integration, MQTT telemetry, and industrial control with cloud monitoring.
 
 ### Featured Work
@@ -94,6 +130,8 @@ PLC programming, Node-RED flows, sensor integration, MQTT telemetry, and industr
 ---
 
 ## Open Source Projects
+
+<img src="https://manxlr.click/images/opcua-mqtt/cover.jpg" alt="Open source projects preview" width="100%" />
 
 Tools and apps designed to run on your own hardware, with practical workflows and clear documentation.
 
@@ -111,6 +149,8 @@ Tools and apps designed to run on your own hardware, with practical workflows an
 ## SaaS
 
 ### QR Brand
+
+<img src="https://manxlr.click/images/qrbrand.avif" alt="QR Brand preview" width="100%" />
 
 **QR Brand** is a privacy-first SaaS for placing QR codes on images directly in the browser.  
 Your images stay on-device with client-side processing.
