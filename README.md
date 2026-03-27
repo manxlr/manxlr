@@ -49,16 +49,20 @@ Built for privacy, reliability, and practical usage across Microsoft Store, Andr
 
 ### Microsoft Store Applications
 
-- **[AI Dream Art](https://apps.microsoft.com/detail/9NHSSM4T2C5D?hl=en-us&gl=PK&ocid=pdpshare)** (~10,000+ downloads)  
-  Offline AI image generation with GPU acceleration and multi-resolution output.
-- **[QuickConvert - Batch File Format Converter](https://apps.microsoft.com/detail/9NZNN9KZZXMV?hl=en-us&gl=PK&ocid=pdpshare)**  
-  Batch conversion for PDF, TXT, CSV, JSON, MD, and more.
+- **[AI Art Editor](https://apps.microsoft.com/detail/9P155FT9DT6L?hl=en-US)**  
+  Professional image editing with 65+ AI-powered artistic filters. Transform photos into art with oil painting, sketch, cartoon, glitch, synthwave, and more. Full drawing tools, 50-level undo, and a modern dark UI.
+- **[AI Dream Art](https://apps.microsoft.com/store/detail/9NHSSM4T2C5D)**  
+  Revolutionary AI-powered image generation app using advanced machine learning. Create stunning artwork with simple text prompts. Fully offline.
+- **[QuickConvert](https://apps.microsoft.com/detail/9NZNN9KZZXMV?hl=en-us&gl=PK&ocid=pdpshare)**  
+  Powerful file conversion utility supporting multiple formats with batch processing. Fast, reliable, and user-friendly.
 - **[Audio Fix Batch Converter](https://apps.microsoft.com/detail/9PGFKV8RGVN6?hl=en-us&gl=PK&ocid=pdpshare)**  
-  Offline FFmpeg-based audio conversion with quality controls.
-- **[Modern English Dictionary](https://apps.microsoft.com/detail/9PGM7MG6QRZL?hl=en-us&gl=PK&ocid=pdpshare)**  
-  Lightweight offline dictionary experience.
-- **AI Writer** (in development)  
-  AI-powered writing assistant planned for Microsoft Store release.
+  Professional audio conversion supporting MP3, WAV, FLAC, AAC, OGG, WMA. Batch convert with custom quality control.
+- **[Share Files PC](https://apps.microsoft.com/detail/9P3NS692RN37?hl=en-us&gl=PK&ocid=pdpshare)**  
+  Seamless wireless file sharing between Windows PCs and mobile devices over Wi-Fi. No cloud, no accounts.
+- **[Barcode & QR Code Generator](https://apps.microsoft.com/detail/9n7llbd9nbrt?hl=en-US)**  
+  Generate QR codes and barcodes instantly, completely offline. Supports multiple barcode formats.
+- **[Shape Identifier for Kids](https://apps.microsoft.com/detail/9NTQ3JHF8K1L?hl=en-us&gl=PK&ocid=pdpshare)**  
+  Educational game for ages 4-8 to learn geometric shapes. Safe, offline, and ad-free.
 
 ### Android Applications
 
