@@ -100,37 +100,14 @@ Tools and apps designed to run on your own hardware, with practical workflows an
 
 ---
 
-## Featured GitHub Repositories
-
-<a href="https://github.com/manxlr/games-showcase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manxlr&repo=games-showcase&theme=dark" alt="games-showcase repo card" />
-</a>
-<a href="https://github.com/manxlr/AIVoice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manxlr&repo=AIVoice&theme=dark" alt="AIVoice repo card" />
-</a>
-<a href="https://github.com/manxlr/opcua-mqttbroker-mqttclient-demo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manxlr&repo=opcua-mqttbroker-mqttclient-demo&theme=dark" alt="opcua-mqttbroker-mqttclient-demo repo card" />
-</a>
-<a href="https://github.com/manxlr/AndroidImageResizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manxlr&repo=AndroidImageResizer&theme=dark" alt="AndroidImageResizer repo card" />
-</a>
-
----
-
 ## Current Goals
 
 - Expand open-source contributions
 - Grow Android and Microsoft Store portfolio
 - Build more offline AI-powered automation systems
+- Deliver more PLC automation projects for industrial systems
+- Build more OPC UA client and OPC UA to MQTT bridge workflows
 - Continue advanced Java and DSA preparation for top-tier engineering roles
-
----
-
-## Contact
-
-- Email: [nszeeshankhalid@gmail.com](mailto:nszeeshankhalid@gmail.com)
-- Website: [manxlr.click](https://manxlr.click)
-- GitHub: [github.com/manxlr](https://github.com/manxlr)
 
 ---
 
