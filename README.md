@@ -1,143 +1,140 @@
-# Hi, I'm Zeeshan Khalid! 👋  
+# Hi, I'm Zeeshan Khalid! 👋
 
-🚀 **Research Engineer | Software Developer | Open-Source Enthusiast**  
-📍 Islamabad, Pakistan | ✉️ nszeeshankhalid@gmail.com  | **[manxlr.click](https://manxlr.click)**
+**Research Engineer | Software Developer | Open-Source Builder**
 
----
-
-## 🚀 About Me  
-I am a **Research Engineer** with **8+ years** of experience in **Embedded Systems, IoT, Control Systems, AI Infrastructure, Software Testing, and Open-Source Contributions.**  
-
-💡 **I code because I want to automate everything.**  
-I believe automation can free us from repetitive tasks, allowing us to focus on **creativity and improving our quality of life.**  
+📍 Islamabad, Pakistan  
+✉️ [nszeeshankhalid@gmail.com](mailto:nszeeshankhalid@gmail.com)  
+🌐 [manxlr.click](https://manxlr.click)  
+💼 [github.com/manxlr](https://github.com/manxlr)
 
 ---
 
-## 🛠️ Tech Stack  
-🔹 **Languages:** Python, Java, Kotlin, C, C++, SQL  
-🔹 **Technologies:** Embedded Systems, IoT, AI/ML, Web Development, Databases, Android Development, PLC Programming  
-🔹 **Industrial Systems:** CodeSys, Studio 5000 (Allen-Bradley), MQTT, Universal Robots, Keyence Vision  
-🔹 **AI Infrastructure:** Open WebUI, ComfyUI, Tesseract OCR, Apache Tika, GPU Optimization  
-🔹 **Tools & Platforms:** Git, Docker, Firebase, PyPI, Jetpack Compose, AWS IoT Core  
+## About Me
+
+I am a Research Engineer with **8+ years of experience** in Embedded Systems, IoT, Control Systems, AI Infrastructure, Software Testing, and Open-Source Contributions.
+
+I build automation-first products across:
+- **AI infrastructure and real-time AI applications**
+- **Industrial and IoT systems**
+- **Cross-platform apps** (Microsoft Store, Android, browser extensions)
+- **Privacy-first SaaS products**
+
+> **I code because I want to automate everything.**  
+> Automation frees us from repetitive work so we can focus on creativity and quality of life.
 
 ---
 
-## 💰 Microsoft Store Applications (Paid & Revenue-Generating)
+## Tech Stack
 
-### 🎨 **[AI Dream Art](https://apps.microsoft.com/detail/9NHSSM4T2C5D?hl=en-us&gl=PK&ocid=pdpshare)** ⭐ **~10,000+ Downloads**
-**Fully Offline AI Image Generation** using Stable Diffusion technology  
-- Complete privacy-focused image generation (100% offline)
-- GPU acceleration support with CUDA
-- Multiple resolutions (512, 640, 768, 1024px)
-- Generate up to 4 variations per prompt
-- **Achievement:** ~10,000+ downloads across platforms
-
-### 🔄 **[QuickConvert – Batch File Format Converter](https://apps.microsoft.com/detail/9NZNN9KZZXMV?hl=en-us&gl=PK&ocid=pdpshare)**
-**Multi-format file conversion utility** with batch processing  
-- Convert PDF, Text, CSV, JSON, MD, and more
-- Lightning-fast batch processing
-- Drag-and-drop interface
-- Professional-grade reliability
-
-### 🎵 **[Audio Fix Batch Converter](https://apps.microsoft.com/detail/9PGFKV8RGVN6?hl=en-us&gl=PK&ocid=pdpshare)**
-**Professional audio conversion tool** with quality control  
-- Support for MP3, WAV, FLAC, AAC, OGG, WMA
-- Batch processing with built-in audio player
-- Custom quality control (64-320kbps)
-- FFmpeg-powered, completely offline
-
-### 📚 **[Modern English Dictionary](https://apps.microsoft.com/detail/9PGM7MG6QRZL?hl=en-us&gl=PK&ocid=pdpshare)**
-**English Dictionary app** with sleek, modern interface  
-- Comprehensive word definitions
-- Offline functionality
-- User-friendly design
-
-### ✍️ **AI Writer** (🚧 In Development)
-**AI-powered writing assistant** for enhanced productivity  
-- Coming soon to Microsoft Store
+**Languages:** `Python` `Java` `Kotlin` `C` `C++` `SQL`  
+**Industrial & IoT:** `CODESYS` `Studio 5000 (Allen-Bradley)` `MQTT` `Node-RED` `Universal Robots` `Keyence Vision` `AWS IoT Core`  
+**AI Infrastructure:** `Open WebUI` `ComfyUI` `Tesseract OCR` `Apache Tika` `Whisper` `Piper TTS` `GPU Optimization`  
+**Frameworks & Tools:** `FastAPI` `Flask` `React` `JavaScript` `SQLite` `Docker` `Git` `Firebase` `Jetpack Compose`
 
 ---
 
-## 🏭 Industrial Control Systems & Automation
+## AI Infrastructure and Development
 
-### PLC Programming & Hardware Integration
-🔹 **CodeSys (IEC 61131-3)** - Advanced PLC programming with simulation and real-world deployment  
-🔹 **Rockwell Studio 5000 (Allen-Bradley)** - Professional automation programming for industrial controllers  
-🔹 **Universal Robots** - Collaborative robotics integration with safety systems  
-🔹 **Keyence Vision Systems** - Advanced vision sensors for quality control and automation  
-🔹 **MQTT Telemetry** - Real-time data transmission from PLC systems to cloud infrastructure (AWS IoT Core)  
-🔹 **Sensor Integration** - Promess Servo Press, SMC Actuators (JXC91 series), IFM Smart Sensors (IO-Link)
+I work across production AI infrastructure and hands-on AI applications, from GPU-backed private LLM stacks to real-time voice assistants.
 
-### Key Achievements
-✅ Designed and implemented complex control sequences for pick-and-place automation  
-✅ Integrated multiple sensor systems (vision, force, position) for quality control  
-✅ Developed scalable IIoT data pipelines for real-time monitoring and analytics  
-✅ Reduced system downtime through comprehensive simulation and testing protocols  
-✅ Achieved sub-millisecond response times for time-critical control loops
+- **Private LLM Infrastructure:** Deployed and managed offline, GPU-accelerated AI servers with Open WebUI and document workflows.
+- **AIVoice:** Local-first voice assistant using Whisper, LM Studio, and Piper TTS with FastAPI + WebSockets for real-time interactions.
+- **Operations:** Managed multi-service architecture, migrations, backups, uptime, and performance tuning for reliable deployment.
 
 ---
 
-## 🤖 AI Infrastructure Deployment & Management
+## Cross-Platform Applications
 
-### Private Offline AI Server Infrastructure
-🔹 **LLM Server Deployment** - Complete GPU-accelerated AI server infrastructure  
-🔹 **Model Support** - Qwen2.5/3, Gemma2/3, and other state-of-the-art models  
-🔹 **Performance Optimization** - Achieved 99.9% uptime with <2s response times  
-🔹 **GPU Utilization** - Optimized to 100% GPU utilization for AI inference workloads
+Built for privacy, reliability, and practical usage across Microsoft Store, Android, and browser ecosystems.
 
-### Document Processing & Extraction
-🔹 **Proprietary Document Engine** - Tesseract OCR and Apache Tika integration  
-🔹 **Image Analysis** - Advanced image processing and analysis capabilities  
-🔹 **Multi-format Support** - Comprehensive document format handling
+### Microsoft Store Applications
 
-### Infrastructure Management
-🔹 **Database Management** - Migrations, backups, and continuous optimization  
-🔹 **User Management** - Complete user authentication and access control systems  
-🔹 **Server Upgradation** - System maintenance, performance monitoring, and upgrades  
-🔹 **Multi-Service Architecture** - Managed Open WebUI, ComfyUI, and document processing services
+- **[AI Dream Art](https://apps.microsoft.com/detail/9NHSSM4T2C5D?hl=en-us&gl=PK&ocid=pdpshare)** (~10,000+ downloads)  
+  Offline AI image generation with GPU acceleration and multi-resolution output.
+- **[QuickConvert - Batch File Format Converter](https://apps.microsoft.com/detail/9NZNN9KZZXMV?hl=en-us&gl=PK&ocid=pdpshare)**  
+  Batch conversion for PDF, TXT, CSV, JSON, MD, and more.
+- **[Audio Fix Batch Converter](https://apps.microsoft.com/detail/9PGFKV8RGVN6?hl=en-us&gl=PK&ocid=pdpshare)**  
+  Offline FFmpeg-based audio conversion with quality controls.
+- **[Modern English Dictionary](https://apps.microsoft.com/detail/9PGM7MG6QRZL?hl=en-us&gl=PK&ocid=pdpshare)**  
+  Lightweight offline dictionary experience.
+- **AI Writer** (in development)  
+  AI-powered writing assistant planned for Microsoft Store release.
 
-### Key Achievements
-✅ Deployed complete private LLM infrastructure with GPU offloading  
-✅ Developed proprietary document extraction engine with OCR capabilities  
-✅ Implemented robust monitoring and alerting systems for production infrastructure  
-✅ Managed complex multi-service architecture with high availability requirements
+### Android Applications
 
----
+- **Unit Converter Pro**
+- **Life Is A Boat**
+- **Hair Trimmer Prank**
 
-## 🎯 Current Goals
-🔥 Expanding my **open-source contributions**
-📱 Building Android apps & **publishing on Google Play**
-🖥️ Developing **revenue-generating apps** for the Microsoft Store
-🛠️ Developing offline **AI-powered automation systems**
-🤖 MT5 Indicators and EAs for development of **industry-leading trading bots**
-🚀 **Learning & mastering Java** for advanced development
-💡 **Learning DSA advanced** for getting work at AMZ/Google
+### Browser Extensions
+
+- **ImagePro Batch Downloader**  
+  Premium image extraction and conversion workflow for Chrome/Edge.
 
 ---
 
-## 📌 Recent Work  
+## Industrial and IoT Automation
 
-### 🚀 **Projects I'm Currently Working On**
-🔹 **[langchaindocumentloader](https://github.com/manxlr/langchaindocumentloader)** - A langchain prototype app for loading documents  
-🔹 **[Everything App](https://github.com/manxlr/everythingapp)** - A multipurpose tool for daily tasks  
-🔹 **[File Extension Tree Viewer](https://github.com/manxlr/fileextensiontreeviewer)** - A Windows extension for analyzing file types  
-🔹 **AI Writer** - AI-powered writing assistant (Microsoft Store - Coming Soon)
+PLC programming, Node-RED flows, sensor integration, MQTT telemetry, and industrial control with cloud monitoring.
 
----
+### Featured Work
 
-### 🎯 **Completed Open-Source Projects for the Community**
-🔹 **[Android Image Resizer](https://github.com/manxlr/AndroidImageResizer)** - A tool to resize images for Android development  
-🔹 **[PyTemperatureConverter](https://github.com/manxlr/pytemperatureconverter)** - A Python package for temperature conversion  
-🔹 **[Currency Converter](https://github.com/manxlr/currency-converter)** - A simple currency conversion tool
-🔹 **[English Dictionary](https://github.com/manxlr/EnglishDictionary)** - English dictionary app
+- **OPC UA to MQTT Telemetry POC**  
+  Built an end-to-end pipeline that streams live CODESYS PLC variables through a Python bridge into MQTT, with real-time visualization in a Flask dashboard and a desktop GUI client (plotting/export included).  
+  **Tech:** Python, Flask, asyncua, aMQTT, paho-mqtt, JavaScript, Chart.js, Tkinter, Matplotlib.
+- **PLC and Robotics Integration**  
+  Delivered control logic and integration for Allen-Bradley/CODESYS PLCs, Universal Robots, Keyence vision systems, and industrial sensors.
+- **Reliability-Focused Delivery**  
+  Reduced downtime through simulation-first testing, scalable telemetry, and data-driven diagnostics.
 
 ---
 
-## 📫 Contact Me  
-📧 **Email:** nszeeshankhalid@gmail.com  
-💼 **GitHub:** [manxlr](https://github.com/manxlr)  
-🌐 **Website:** [manxlr.click](https://manxlr.click)
+## Open Source Projects
+
+Tools and apps designed to run on your own hardware, with practical workflows and clear documentation.
+
+- **[games-showcase](https://github.com/manxlr/games-showcase)**  
+  Self-hosted FastAPI dashboard for game library tracking, filtering, image galleries, PDF export, and light/dark UI.
+- **[opcua-mqttbroker-mqttclient-demo](https://github.com/manxlr/opcua-mqttbroker-mqttclient-demo)**  
+  Open-source industrial pipeline from CODESYS OPC UA to MQTT with Flask dashboard and client tooling.
+- **[langchaindocumentloader](https://github.com/manxlr/langchaindocumentloader)**  
+  LangChain prototype app for loading and processing documents.
+- **[fileextensiontreeviewer](https://github.com/manxlr/fileextensiontreeviewer)**  
+  Windows extension for analyzing file types and structures.
 
 ---
 
-⭐ **"Automation is the future, and I am here to build it!"**
+## SaaS
+
+### QR Brand
+
+**QR Brand** is a privacy-first SaaS for placing QR codes on images directly in the browser.  
+Your images stay on-device with client-side processing.
+
+- 100% browser-based (no uploads, no tracking)
+- Batch processing and export (ZIP, PNG, JPG, WebP, PDF)
+- Custom QR colors and optional logo-in-center (Pro)
+- Free tier and Pro subscription
+
+🌐 [qrbrand.app](https://qrbrand.app)
+
+---
+
+## Current Goals
+
+- Expand open-source contributions
+- Grow Android and Microsoft Store portfolio
+- Build more offline AI-powered automation systems
+- Continue advanced Java and DSA preparation for top-tier engineering roles
+
+---
+
+## Contact
+
+- Email: [nszeeshankhalid@gmail.com](mailto:nszeeshankhalid@gmail.com)
+- Website: [manxlr.click](https://manxlr.click)
+- GitHub: [github.com/manxlr](https://github.com/manxlr)
+
+---
+
+> **"Automation is the future, and I am here to build it."**
