@@ -23,29 +23,37 @@ I build automation-first products across:
 
 ---
 
-## Tech Stack
+## Featured Projects
 
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### Universal Industrial Protocol Data Gatherer
+<img src="https://manxlr.click/images/industrial_control.avif" alt="Industrial protocol platform" width="100%" />
 
-### AI, Backend, and Data
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Open WebUI](https://img.shields.io/badge/Open%20WebUI-111827?logo=ai&logoColor=white) ![ComfyUI](https://img.shields.io/badge/ComfyUI-0F172A?logo=artstation&logoColor=white)  
-![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-4285F4?logo=google&logoColor=white) ![Apache Tika](https://img.shields.io/badge/Apache%20Tika-D22128?logo=apache&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-1F2937?logo=openai&logoColor=white) ![Piper TTS](https://img.shields.io/badge/Piper%20TTS-4B5563?logo=soundcloud&logoColor=white)
+Multi-protocol industrial edge gateway for unified telemetry and live operations.
+- Supports **OPC UA + Modbus TCP** ingestion/output with **MQTT streaming**
+- Includes **historian storage** and **2D/3D client visualization**
+- Roadmap includes **PROFINET**, **EtherNet/IP**, and broader TCP/IP protocol coverage
 
-### Industrial and Dev Tools
-![CODESYS](https://img.shields.io/badge/CODESYS-1E3A8A?logoColor=white) ![Studio 5000](https://img.shields.io/badge/Studio%205000-991B1B?logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)  
-![AWS IoT Core](https://img.shields.io/badge/AWS%20IoT%20Core-FF9900?logo=amazonaws&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+### AIVoice
+<img src="https://manxlr.click/images/aivoice.png" alt="AIVoice preview" width="100%" />
 
----
+Local-first AI voice assistant for real-time conversations with LLMs.
+- Voice pipeline: microphone capture -> Whisper STT -> LM Studio -> Piper TTS
+- Real-time communication with FastAPI + WebSockets
+- Repository: [github.com/manxlr/AIVoice](https://github.com/manxlr/AIVoice)
 
-## AI Infrastructure and Development
+### GameFuntastic
 
-I work across production AI infrastructure and hands-on AI applications, from GPU-backed private LLM stacks to real-time voice assistants.
+Built and shipped **[GameFuntastic](https://www.gamefuntastic.com/)**, an entertainment portal with games, tools, generators, quizzes, and articles.
+- Stack: Next.js (App Router), TypeScript, Tailwind, Vercel
+- Highlights: 100+ SEO pages, dynamic rendering, JSON-LD, sitemap/robots, IndexNow
+- Repository: [github.com/manxlr/gamefuntastic](https://github.com/manxlr/gamefuntastic)
 
-- **Private LLM Infrastructure:** Deployed and managed offline, GPU-accelerated AI servers with Open WebUI and document workflows.
-- **AIVoice:** Local-first voice assistant using Whisper, LM Studio, and Piper TTS with FastAPI + WebSockets for real-time interactions.
-- **Operations:** Managed multi-service architecture, migrations, backups, uptime, and performance tuning for reliable deployment.
+### Open-Source Industrial and Product Tools
+<img src="https://manxlr.click/images/opcua-mqtt/cover.jpg" alt="OPC UA MQTT bridge preview" width="100%" />
+
+- **[games-showcase](https://github.com/manxlr/games-showcase):** Self-hosted FastAPI game library dashboard with filters, media support, and PDF export.
+- **[opcua-mqttbroker-mqttclient-demo](https://github.com/manxlr/opcua-mqttbroker-mqttclient-demo):** CODESYS OPC UA -> MQTT bridge with dashboard and client tooling.
+- **[AndroidImageResizer](https://github.com/manxlr/AndroidImageResizer):** Python Tkinter utility for Android density-based image resizing.
 
 ---
 
