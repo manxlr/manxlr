@@ -43,17 +43,20 @@ Local-first AI voice assistant for real-time conversations with LLMs.
 
 ### GameFuntastic
 
+<img src="./assets/gamefuntastic-icon.png" alt="GameFuntastic icon" width="120" />
+
 Built and shipped **[GameFuntastic](https://www.gamefuntastic.com/)**, an entertainment portal with games, tools, generators, quizzes, and articles.
 - Stack: Next.js (App Router), TypeScript, Tailwind, Vercel
 - Highlights: 100+ SEO pages, dynamic rendering, JSON-LD, sitemap/robots, IndexNow
-- Repository: [github.com/manxlr/gamefuntastic](https://github.com/manxlr/gamefuntastic)
+- Case study: [manxlr.click/gamefuntastic](https://manxlr.click/gamefuntastic)
 
-### Open-Source Industrial and Product Tools
+### OPC UA Community Demo (with Proprietary Expansion)
 <img src="https://manxlr.click/images/opcua-mqtt/cover.jpg" alt="OPC UA MQTT bridge preview" width="100%" />
 
-- **[games-showcase](https://github.com/manxlr/games-showcase):** Self-hosted FastAPI game library dashboard with filters, media support, and PDF export.
-- **[opcua-mqttbroker-mqttclient-demo](https://github.com/manxlr/opcua-mqttbroker-mqttclient-demo):** CODESYS OPC UA -> MQTT bridge with dashboard and client tooling.
-- **[AndroidImageResizer](https://github.com/manxlr/AndroidImageResizer):** Python Tkinter utility for Android density-based image resizing.
+I use a broader proprietary industrial data platform internally, while the community implementation is available as an open-source OPC UA data gatherer with step-by-step setup instructions.
+- Community project: **[opcua-mqttbroker-mqttclient-demo](https://github.com/manxlr/opcua-mqttbroker-mqttclient-demo)**
+- Scope: CODESYS OPC UA -> MQTT bridge, embedded broker, Flask dashboard, terminal/GUI clients
+- Docs + walkthrough: runnable demo with reproducible setup for local simulation and testing
 
 ---
 
@@ -65,20 +68,28 @@ Built for privacy, reliability, and practical usage across Microsoft Store, Andr
 
 ![Windows](https://img.shields.io/badge/Windows%20Apps-0078D4?logo=windows&logoColor=white) ![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-00A4EF?logo=microsoft&logoColor=white)
 
-- 🎨 **[AI Art Editor](https://apps.microsoft.com/detail/9P155FT9DT6L?hl=en-US)**  
+- 🎨 **[AI Art Editor](https://manxlr.click/app-development/ai-art-editor)**  
   Professional image editing with 65+ AI-powered artistic filters. Transform photos into art with oil painting, sketch, cartoon, glitch, synthwave, and more. Full drawing tools, 50-level undo, and a modern dark UI.
-- 🖼️ **[AI Dream Art](https://apps.microsoft.com/store/detail/9NHSSM4T2C5D)**  
+- 🖼️ **[AI Dream Art](https://manxlr.click/app-development/ai-dream-art)**  
   Revolutionary AI-powered image generation app using advanced machine learning. Create stunning artwork with simple text prompts. Fully offline.
-- 🔄 **[QuickConvert](https://apps.microsoft.com/detail/9NZNN9KZZXMV?hl=en-us&gl=PK&ocid=pdpshare)**  
+- 🔄 **[QuickConvert](https://manxlr.click/app-development/quickconvert)**  
   Powerful file conversion utility supporting multiple formats with batch processing. Fast, reliable, and user-friendly.
-- 🎵 **[Audio Fix Batch Converter](https://apps.microsoft.com/detail/9PGFKV8RGVN6?hl=en-us&gl=PK&ocid=pdpshare)**  
+- 🎵 **[Audio Fix Batch Converter](https://manxlr.click/app-development/audio-fix-batch-converter)**  
   Professional audio conversion supporting MP3, WAV, FLAC, AAC, OGG, WMA. Batch convert with custom quality control.
-- 📤 **[Share Files PC](https://apps.microsoft.com/detail/9P3NS692RN37?hl=en-us&gl=PK&ocid=pdpshare)**  
+- 📤 **[Share Files PC](https://manxlr.click/app-development/share-files-pc)**  
   Seamless wireless file sharing between Windows PCs and mobile devices over Wi-Fi. No cloud, no accounts.
-- 🔳 **[Barcode & QR Code Generator](https://apps.microsoft.com/detail/9n7llbd9nbrt?hl=en-US)**  
+- 🔳 **[Barcode & QR Code Generator](https://manxlr.click/app-development/barcode-qr-code-generator)**  
   Generate QR codes and barcodes instantly, completely offline. Supports multiple barcode formats.
-- 📐 **[Shape Identifier for Kids](https://apps.microsoft.com/detail/9NTQ3JHF8K1L?hl=en-us&gl=PK&ocid=pdpshare)**  
+- 📐 **[Shape Identifier for Kids](https://manxlr.click/app-development/shape-identifier-kids)**  
   Educational game for ages 4-8 to learn geometric shapes. Safe, offline, and ad-free.
+- 📝 **[Whispering Notes AI](https://manxlr.click/app-development/whispering-notes-ai)**  
+  Offline audio and video transcription on Windows with Whisper AI, privacy-first and fully local.
+- 🖼️ **[Bulk Photo Watermark & EXIF Eraser](https://manxlr.click/app-development/bulk-photo-watermark-exif-eraser)**  
+  Add watermarks in bulk and remove hidden metadata completely offline.
+- 🧹 **[Duplicate & Similar Finder Cleaner](https://manxlr.click/app-development/duplicate-similar-finder-cleaner)**  
+  Fast duplicate file and similar image cleanup with safe review workflows.
+- 🎙️ **[Story Narrator AI](https://manxlr.click/app-development/story-narrator-ai)**  
+  AI-voiced text narration on Windows with voice/style options and local audio export.
 
 ### Android Applications
 
