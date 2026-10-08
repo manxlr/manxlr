@@ -11,7 +11,7 @@ and offline-first apps that never upload your data.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-khalid-3b681030/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nszeeshankhalid@gmail.com)
 
-**27 apps live** on Microsoft Store, Google Play & Chrome · **8+ years** in embedded, IoT, control systems & AI infrastructure
+**24 apps live** on Microsoft Store, Google Play & Chrome · **8+ years** in embedded, IoT, control systems & AI infrastructure
 
 </div>
 
@@ -64,7 +64,7 @@ GPU-backed private AI servers for teams that can't send data to the cloud.
 
 ---
 
-## Apps — 27 live
+## Apps — 24 live
 
 All offline-first: your files never leave your device. Full catalogue at **[manxlr.click/app-development](https://manxlr.click/app-development)**.
 
@@ -111,9 +111,6 @@ All offline-first: your files never leave your device. Full catalogue at **[manx
 | --- | --- |
 | [Image Inspector](https://manxlr.click/app-development/image-inspector) | See what your photos give away and save clean copies |
 | [ShrinkForge](https://manxlr.click/app-development/shrinkforge) | Compress, resize and convert photos — no ads, offline |
-| [Unit Converter Pro](https://manxlr.click/app-development/unit-converter-pro) | Offline unit conversion |
-| [Life Is A Boat](https://manxlr.click/app-development/life-is-a-boat) | Relaxing sailing puzzle game |
-| [Hair Trimmer Prank](https://play.google.com/store/apps/details?id=com.zeeshan.pranksoundsapp) | Harmless prank sound app |
 | [ImagePro Batch Downloader](https://manxlr.gumroad.com/l/nhiap) | Chrome/Edge extension for batch image extraction and conversion |
 
 **Coming soon on Android:** CloakExif · Datelight · PageForge
