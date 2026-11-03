@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Zeeshan Khalid — Private AI, Industrial Systems, Privacy-First Apps">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f17"/>
+      <stop offset="1" stop-color="#121a2b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="0.5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="280" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="280" fill="url(#glow)"/>
+
+    <!-- orbit motif -->
+    <g transform="translate(1010 140)" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1">
+      <circle r="52"/>
+      <circle r="96"/>
+      <circle r="140"/>
+      <circle r="184"/>
+    </g>
+    <g transform="translate(1010 140)">
+      <circle r="4" fill="#ffffff" fill-opacity="0.9"/>
+      <circle cx="52" cy="0" r="3.5" fill="#2563eb"/>
+      <circle cx="-68" cy="-68" r="3.5" fill="#7c3aed"/>
+      <circle cx="99" cy="99" r="3.5" fill="#06b6d4"/>
+      <circle cx="-184" cy="0" r="3" fill="#ffffff" fill-opacity="0.5"/>
+    </g>
+
+    <!-- accent rule -->
+    <rect x="64" y="72" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+
+    <text x="64" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#f8fafc" letter-spacing="-1.5">Zeeshan Khalid</text>
+    <text x="66" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#c7d2fe" letter-spacing="0.2">Private AI  ·  Industrial Systems  ·  Privacy-First Apps</text>
+    <text x="66" y="214" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#94a3b8">LLMs on your own hardware. PLCs that keep lines running. Apps that never upload your data.</text>
+  </g>
+</svg>

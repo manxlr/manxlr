@@ -1,185 +1,229 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" alt="Zeeshan Khalid — Private AI · Industrial Systems · Privacy-First Apps" width="100%">
+</picture>
 
-# Hi, I'm Zeeshan Khalid 👋
+<p align="center">
+  <a href="https://manxlr.click"><b>manxlr.click</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zeeshan-khalid-3b681030/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:nszeeshankhalid@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://apps.microsoft.com/search/publisher?name=manxlr">Microsoft Store</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/dev?id=8187565323020893418">Google Play</a>
+</p>
 
-### Private AI · Industrial Systems · Privacy-First Apps
+<p align="center">
+  <sub>Research engineer · 8+ years across embedded systems, IoT, control systems and AI infrastructure · Islamabad, Pakistan</sub>
+</p>
 
-LLMs deployed on your own hardware, PLCs and IoT that keep production lines running,<br/>
-and offline-first apps that never upload your data.
+<br>
 
-[![Website](https://img.shields.io/badge/manxlr.click-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manxlr.click)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-khalid-3b681030/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nszeeshankhalid@gmail.com)
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Private AI</h3>
+      <sub>GPU-optimised LLM servers, Open WebUI, RAG and OCR pipelines running entirely on your own hardware. Qwen, Gemma, Ollama, llama.cpp.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Industrial & IoT</h3>
+      <sub>PLC programming on CODESYS and Allen-Bradley, OPC UA and Modbus to MQTT, Node-RED, servo presses, and AWS IoT telemetry.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Privacy-First Apps</h3>
+      <sub>Twenty-five offline-first Windows, Android and browser apps, plus in-browser SaaS. No uploads, no accounts, no tracking.</sub>
+    </td>
+  </tr>
+</table>
 
-**24 apps live** on Microsoft Store, Google Play & Chrome · **8+ years** in embedded, IoT, control systems & AI infrastructure
+<br>
 
-</div>
+> I code because I want to automate everything. Automation frees us from repetitive work so we can focus on creativity and quality of life.
 
----
+<br>
 
-## What I build
+## Featured work
 
-| 🧠 Private AI | 🏭 Industrial & IoT | 📱 Privacy-First Apps |
-| --- | --- | --- |
-| GPU-optimized private LLM servers, Open WebUI, RAG and document pipelines — your data stays on your hardware. | PLC programming (CODESYS, Allen-Bradley), OPC UA, Modbus, MQTT, Node-RED, servo presses and cloud IoT. | Offline Windows & Android apps and in-browser SaaS — no uploads, no accounts, no tracking. |
+<table width="100%">
+  <tr>
+    <td width="42%" valign="top">
+      <a href="https://github.com/manxlr/orgenis-edge">
+        <img src="https://raw.githubusercontent.com/manxlr/orgenis-edge/main/docs/screenshots/Main_Feature_Image.png" alt="Orgenis Edge" width="100%">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/manxlr/orgenis-edge">Orgenis Edge</a></h3>
+      <sub>INDUSTRIAL · OPEN SOURCE · PYTHON</sub>
+      <p>An industrial edge runtime that turns <b>OPC UA</b> and <b>Modbus TCP</b> sources into one live <b>MQTT</b> data stream, with an embedded broker, a <b>SQLite historian</b>, and a web dashboard, admin and analytics UI. Optional Modbus TCP slave mirror and API-key-protected REST surface for downstream integration.</p>
+      <p><sub>Roadmap: PROFINET · EtherNet/IP · Modbus RTU · Windows service and systemd packaging</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
+      <a href="https://manxlr.click/ai-deployment">
+        <img src="https://manxlr.click/images/ai_deployment.jpg" alt="Private LLM infrastructure" width="100%">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://manxlr.click/ai-deployment">Private LLM Infrastructure</a></h3>
+      <sub>AI · DEPLOYMENT · GPU</sub>
+      <p>Complete private AI servers for teams whose data cannot leave the building. GPU-tuned deployments of <b>Qwen 2.5 / 3</b> and <b>Gemma 2 / 3</b> behind <b>Open WebUI</b>, with RAG, embedding and OCR document pipelines.</p>
+      <p><sub>PyTorch · CUDA · Ollama / llama.cpp · Open WebUI · vector databases · AWS</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
+      <a href="https://github.com/manxlr/AIVoice">
+        <img src="./assets/aivoice-wide.png" alt="AIVoice" width="100%">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/manxlr/AIVoice">AIVoice</a></h3>
+      <sub>AI · VOICE · OPEN SOURCE</sub>
+      <p>A local-first voice assistant you actually talk to. Microphone → <b>faster-whisper</b> → <b>LM Studio</b> → <b>Piper TTS</b>, streamed over WebSockets from a FastAPI backend. Push-to-talk, six-plus voice personalities, and nothing leaves the machine.</p>
+      <p><sub>FastAPI · faster-whisper · Piper · WebSockets · LM Studio · Tailwind</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
+      <a href="https://www.gamefuntastic.com/">
+        <img src="https://manxlr.click/images/gamefuntastic/hero.png" alt="GameFuntastic" width="100%">
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://www.gamefuntastic.com/">GameFuntastic</a></h3>
+      <sub>WEB · NEXT.JS · SEO</sub>
+      <p>A production entertainment and utility hub with <b>112+ free pages</b>: 59 browser tools that process files on-device, 33 generators, games, quizzes, ebooks, a daily page and a growing library of guides. Static-first on Vercel with full structured data, sitemaps and IndexNow.</p>
+      <p><sub>Next.js App Router · TypeScript · Tailwind · Vercel &nbsp;—&nbsp; <a href="https://manxlr.click/gamefuntastic">case study</a></sub></p>
+    </td>
+  </tr>
+</table>
 
-> **I code because I want to automate everything.** Automation frees us from repetitive work so we can focus on creativity and quality of life.
+<br>
 
----
+## Apps
 
-## Featured Projects
+<p><sub>Twenty-five apps live, all built on the same rule: your files never leave your device. Full catalogue at <a href="https://manxlr.click/app-development">manxlr.click/app-development</a>.</sub></p>
 
-### 🏭 [Orgenis Edge](https://github.com/manxlr/orgenis-edge) — Industrial Universal Converter & Data Acquisition
+#### On-device AI for Windows
 
-<img src="https://raw.githubusercontent.com/manxlr/orgenis-edge/main/docs/screenshots/Main_Feature_Image.png" alt="Orgenis Edge" width="100%" />
-
-Edge runtime that unifies industrial protocols into one live data pipeline.
-- **OPC UA + Modbus TCP** ingestion → **MQTT** topics, with an embedded broker (TCP + WebSocket)
-- Built-in **SQLite historian** with query/export APIs, optional **Modbus TCP slave** mirror
-- Web dashboard, admin and analytics, plus **2D/3D client visualization**
-- Roadmap: **PROFINET**, **EtherNet/IP**, Modbus RTU, Windows service / systemd packaging
-
-### 🧠 [Private LLM Infrastructure](https://manxlr.click/ai-deployment)
-
-<img src="https://manxlr.click/images/ai_deployment.jpg" alt="Private LLM infrastructure" width="100%" />
-
-GPU-backed private AI servers for teams that can't send data to the cloud.
-- Open WebUI, RAG, Apache Tika + Tesseract OCR document processing, ComfyUI
-- Tuned for local GPUs — fully on-premise, no third-party APIs
-
-### 🎙️ [AIVoice](https://github.com/manxlr/AIVoice) — Real-Time Local Voice Assistant
-
-<img src="https://manxlr.click/images/aivoice.png" alt="AIVoice" width="100%" />
-
-- Pipeline: microphone → **Whisper** STT → **LM Studio** LLM → **Piper** TTS
-- Real-time streaming with **FastAPI + WebSockets**
-
-### 🌐 Web Products
-
-| | |
-| --- | --- |
-| <img src="./assets/gamefuntastic-icon.png" alt="GameFuntastic" width="64" /> | **[GameFuntastic](https://www.gamefuntastic.com/)** — browser entertainment hub with games, tools, generators, quizzes and articles. Next.js App Router, TypeScript, Tailwind, Vercel · 100+ SEO pages, JSON-LD, IndexNow. [Case study →](https://manxlr.click/gamefuntastic) |
-| <img src="https://manxlr.click/images/qrbrand.png" alt="QR Brand" width="64" /> | **[QR Brand](https://qrbrand.app)** — privacy-first SaaS that places QR codes on images 100% in the browser. Batch export (ZIP/PNG/JPG/WebP/PDF), custom colors, logo-in-center, Free + Pro tiers. [Case study →](https://manxlr.click/qr-brand) |
-| 🌐 | **[manxlr.click](https://manxlr.click)** — my portfolio: prerendered React with per-page SEO, structured data and build-time image optimisation on Netlify. |
-
----
-
-## Apps — 24 live
-
-All offline-first: your files never leave your device. Full catalogue at **[manxlr.click/app-development](https://manxlr.click/app-development)**.
-
-### 🪟 Microsoft Store
-
-**On-device AI**
-
-| App | What it does |
-| --- | --- |
-| [Whispering Notes AI](https://manxlr.click/app-development/whispering-notes-ai) | Offline audio/video transcription with Whisper |
-| [Offline Subtitle Studio AI](https://manxlr.click/app-development/offline-subtitle-studio-ai) | Generate, edit, style and burn in subtitles (SRT/VTT/ASS) |
-| [Story Narrator AI](https://manxlr.click/app-development/story-narrator-ai) | AI-voiced narration with styles, ambience and audio export |
-| [Slumber Studio](https://manxlr.click/app-development/slumber-studio) | Sleep stories and guided meditations, up to 90 minutes |
-| [Private OCR Studio](https://manxlr.click/app-development/private-ocr-studio) | Scanned PDFs and images → searchable, editable documents |
-| [Prompt to Picture AI](https://manxlr.click/app-development/prompt-to-picture-ai) | Text-to-image generation on your own GPU, no credits |
-| [AI Dream Art](https://manxlr.click/app-development/ai-dream-art) | Offline AI artwork from text prompts |
-| [AI Art Editor](https://manxlr.click/app-development/ai-art-editor) | 65+ AI artistic filters, drawing tools, 50-level undo |
-| [Upscale Studio](https://manxlr.click/app-development/upscale-studio) | Batch upscale photos up to 4x, no watermark |
-| [Background Remover](https://manxlr.click/app-development/background-remover) | Remove backgrounds from one photo or a whole folder |
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top"><a href="https://manxlr.click/app-development/whispering-notes-ai"><b>Whispering Notes AI</b></a><br><sub>Offline audio and video transcription with Whisper, 90+ languages</sub></td>
+    <td width="33%" valign="top"><a href="https://manxlr.click/app-development/offline-subtitle-studio-ai"><b>Offline Subtitle Studio AI</b></a><br><sub>Generate, edit, style and burn in subtitles — SRT, VTT, ASS</sub></td>
+    <td width="33%" valign="top"><a href="https://manxlr.click/app-development/private-ocr-studio"><b>Private OCR Studio</b></a><br><sub>Scans and images into searchable PDF, Word and CSV</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://manxlr.click/app-development/story-narrator-ai"><b>Story Narrator AI</b></a><br><sub>AI-voiced narration with styles, ambience and local export</sub></td>
+    <td valign="top"><a href="https://manxlr.click/app-development/slumber-studio"><b>Slumber Studio</b></a><br><sub>Sleep stories and guided meditations rendered up to 90 minutes</sub></td>
+    <td valign="top"><a href="https://manxlr.click/app-development/prompt-to-picture-ai"><b>Prompt to Picture AI</b></a><br><sub>Text-to-image on your own GPU, no credits or subscription</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://manxlr.click/app-development/upscale-studio"><b>Upscale Studio</b></a><br><sub>Batch-enlarge photos up to 4×, no watermark</sub></td>
+    <td valign="top"><a href="https://manxlr.click/app-development/background-remover"><b>Background Remover</b></a><br><sub>One photo or a whole folder, transparent PNG or any backdrop</sub></td>
+    <td valign="top"><a href="https://manxlr.click/app-development/ai-art-editor"><b>AI Art Editor</b></a><br><sub>65+ artistic filters with full drawing tools and 50-level undo</sub></td>
+  </tr>
+</table>
 
 <details>
-<summary><b>Photo, media & productivity utilities (12 more)</b></summary>
-
-| App | What it does |
-| --- | --- |
-| [BatchLens Pro](https://manxlr.click/app-development/batchlens-pro) | Convert, resize, rename, compress and watermark photo collections (HEIC, AVIF, WebP…) |
-| [Bulk Photo Watermark & EXIF Eraser](https://manxlr.click/app-development/bulk-photo-watermark-exif-eraser) | Bulk watermarking and hidden-metadata removal |
-| [QuickConvert](https://manxlr.click/app-development/quickconvert) | Multi-format batch file conversion |
-| [Audio Fix Batch Converter](https://manxlr.click/app-development/audio-fix-batch-converter) | MP3/WAV/FLAC/AAC/OGG/WMA batch conversion |
-| [DiskAtlas Pro](https://manxlr.click/app-development/diskatlas-pro) | Interactive disk-usage treemap with duplicate finder |
-| [Duplicate & Similar Finder Cleaner](https://manxlr.click/app-development/duplicate-similar-finder-cleaner) | Duplicate files and similar images, Recycle Bin–safe |
-| [Bulk File Renamer](https://manxlr.click/app-development/bulk-file-renamer) | Preview-first bulk renaming with undo |
-| [ClassicPad Editor](https://manxlr.click/app-development/classicpad-editor) | Fast native text editor for TXT, JSON, CSV, Markdown, logs |
-| [Share Files PC](https://manxlr.click/app-development/share-files-pc) | Wi-Fi file sharing between PC and phone, no cloud |
-| [Barcode Label Maker](https://manxlr.click/app-development/barcode-label-maker) | Print barcode/QR labels from Excel, CSV or serial series |
-| [Barcode & QR Code Generator](https://manxlr.click/app-development/barcode-qr-code-generator) | Offline QR and barcode generation |
-| [Shape Identifier for Kids](https://manxlr.click/app-development/shape-identifier-kids) | Ad-free shape-learning game for ages 4–8 |
-
+<summary><b>Windows utilities</b> &nbsp;<sub>13 more — photos, files, disks and labels</sub></summary>
+<br>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top"><a href="https://manxlr.click/app-development/batchlens-pro"><b>BatchLens Pro</b></a><br><sub>Convert, resize, rename and watermark photo folders — HEIC, AVIF, WebP</sub></td>
+    <td width="33%" valign="top"><a href="https://manxlr.click/app-development/diskatlas-pro"><b>DiskAtlas Pro</b></a><br><sub>Interactive treemap of your drive with duplicate finder and safe cleanup</sub></td>
+    <td width="33%" valign="top"><a href="https://manxlr.click/app-development/duplicate-similar-finder-cleaner"><b>Duplicate &amp; Similar Finder</b></a><br><sub>Duplicate files and near-identical images, Recycle Bin-safe</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://manxlr.click/app-development/bulk-photo-watermark-exif-eraser"><b>Bulk Photo Watermark &amp; EXIF Eraser</b></a><br><sub>Bulk watermarking and hidden-metadata removal</sub></td>
+    <td valign="top"><a href="https://manxlr.click/app-development/bulk-file-renamer"><b>Bulk File Renamer</b></a><br><sub>Preview every new name first, undo any rename later</sub></td>
+    <td valign="top"><a href="https://manxlr.click/app-development/quickconvert"><b>QuickConvert</b></a><br><sub>Multi-format batch file conversion</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://manxlr.click/app-development/audio-fix-batch-converter"><b>Audio Fix Batch Converter</b></a><br><sub>MP3, WAV, FLAC, AAC, OGG and WMA with quality control</sub></td>
+    <td valign="top"><a href="https://manxlr.click/app-development/ai-dream-art"><b>AI Dream Art</b></a><br><sub>Offline AI artwork from text prompts</sub></td>
+    <td valign="top"><a href="https://manxlr.click/app-development/classicpad-editor"><b>ClassicPad Editor</b></a><br><sub>Fast native editor for text, JSON, CSV, Markdown and logs</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://manxlr.click/app-development/share-files-pc"><b>Share Files PC</b></a><br><sub>Wi-Fi file sharing between PC and phone, no cloud</sub></td>
+    <td valign="top"><a href="https://manxlr.click/app-development/barcode-label-maker"><b>Barcode Label Maker</b></a><br><sub>Print barcode and QR labels from Excel, CSV or a serial series</sub></td>
+    <td valign="top"><a href="https://manxlr.click/app-development/barcode-qr-code-generator"><b>Barcode &amp; QR Code Generator</b></a><br><sub>Offline QR and barcode generation</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://manxlr.click/app-development/shape-identifier-kids"><b>Shape Identifier for Kids</b></a><br><sub>Ad-free shape-learning game for ages 4–8</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 </details>
 
-### 🤖 Android & 🧩 Browser
+#### Android and browser
 
-| App | What it does |
-| --- | --- |
-| [Image Inspector](https://manxlr.click/app-development/image-inspector) | See what your photos give away and save clean copies |
-| [ShrinkForge](https://manxlr.click/app-development/shrinkforge) | Compress, resize and convert photos — no ads, offline |
-| [ImagePro Batch Downloader](https://manxlr.gumroad.com/l/nhiap) | Chrome/Edge extension for batch image extraction and conversion |
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top"><a href="https://play.google.com/store/apps/details?id=com.manxlr.imageinspector"><b>Image Inspector</b></a><br><sub>See what your photos give away — location, device, time — and save clean copies</sub></td>
+    <td width="33%" valign="top"><a href="https://play.google.com/store/apps/details?id=com.manxlr.shrinkforge"><b>ShrinkForge</b></a><br><sub>Compress to an exact size, resize and convert — no permissions, no ads</sub></td>
+    <td width="33%" valign="top"><a href="https://manxlr.gumroad.com/l/nhiap"><b>ImagePro Batch Downloader</b></a><br><sub>Chrome and Edge extension for batch image extraction and conversion</sub></td>
+  </tr>
+</table>
 
-**Coming soon on Android:** CloakExif · Datelight · PageForge
+<p><sub>Coming soon on Android: CloakExif · Datelight · PageForge</sub></p>
 
----
+<br>
 
-## Open Source
+## Web products
 
-| Project | Description |
-| --- | --- |
-| [orgenis-edge](https://github.com/manxlr/orgenis-edge) | Industrial OPC UA / Modbus → MQTT converter with historian and web UI |
-| [opcua-mqttbroker-mqttclient-demo](https://github.com/manxlr/opcua-mqttbroker-mqttclient-demo) | CODESYS OPC UA → MQTT bridge with Flask dashboard and desktop client |
-| [AIVoice](https://github.com/manxlr/AIVoice) | Local real-time voice assistant (Whisper + LM Studio + Piper) |
-| [games-showcase](https://github.com/manxlr/games-showcase) | Self-hosted FastAPI game library with galleries, filters and PDF export |
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top"><a href="https://qrbrand.app"><b>QR Brand</b></a><br><sub>Privacy-first SaaS that places QR codes on images entirely in the browser. Batch export to ZIP, PNG, JPG, WebP and PDF; custom colours and logo-in-centre on Pro.</sub></td>
+    <td width="33%" valign="top"><a href="https://www.gamefuntastic.com/"><b>GameFuntastic</b></a><br><sub>Entertainment and utility hub with 112+ free pages and 59 on-device browser tools. Next.js, static-first on Vercel.</sub></td>
+    <td width="33%" valign="top"><a href="https://manxlr.click"><b>manxlr.click</b></a><br><sub>This portfolio: prerendered React with per-page SEO and structured data, an interactive orbit navigator, and build-time image optimisation on Netlify.</sub></td>
+  </tr>
+</table>
+
+<br>
+
+## Open source
+
+| Repository | What it is |
+| :-- | :-- |
+| [orgenis-edge](https://github.com/manxlr/orgenis-edge) | Industrial OPC UA and Modbus to MQTT converter with historian, web UI and REST API |
+| [AIVoice](https://github.com/manxlr/AIVoice) | Local real-time voice assistant: faster-whisper, LM Studio, Piper TTS |
+| [opcua-mqttbroker-mqttclient-demo](https://github.com/manxlr/opcua-mqttbroker-mqttclient-demo) | CODESYS OPC UA → Python bridge → MQTT, with Flask dashboard and desktop client |
+| [games-showcase](https://github.com/manxlr/games-showcase) | Self-hosted FastAPI game library with multi-user auth, galleries and PDF export |
 | [local_chatbot_lmstudio](https://github.com/manxlr/local_chatbot_lmstudio) | LM Studio chatbot with persistent sessions and message history |
-| [langchaindocumentloader](https://github.com/manxlr/langchaindocumentloader) | LangChain document Q&A against a local model |
+| [langchaindocumentloader](https://github.com/manxlr/langchaindocumentloader) | LangChain document question-answering against a local model |
 
----
+<br>
 
-## Tech Stack
+## Toolbox
 
-**Languages** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="22%" valign="top"><b>Languages</b></td>
+    <td valign="top"><sub>Python · TypeScript · JavaScript · C · C++ · Kotlin · Java · SQL · IEC 61131-3 Structured Text</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>AI</b></td>
+    <td valign="top"><sub>PyTorch · CUDA · Ollama · llama.cpp · LM Studio · Open WebUI · faster-whisper · Piper TTS · ComfyUI · Tesseract · Apache Tika · LangChain · vector databases</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Industrial &amp; IoT</b></td>
+    <td valign="top"><sub>CODESYS · Studio 5000 (Allen-Bradley) · OPC UA · Modbus TCP · MQTT · Node-RED · Universal Robots · Keyence Vision · AWS IoT Core</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Web &amp; apps</b></td>
+    <td valign="top"><sub>Next.js · React · FastAPI · Flask · Tailwind · Jetpack Compose · Electron · SQLite · Docker · Vercel · Netlify · Firebase</sub></td>
+  </tr>
+</table>
 
-**AI** &nbsp;
-![Open WebUI](https://img.shields.io/badge/Open%20WebUI-111111)
-![Whisper](https://img.shields.io/badge/Whisper-412991?logo=openai&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-222222)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-4B32C3)
-![Piper TTS](https://img.shields.io/badge/Piper%20TTS-555555)
-![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-3C7EBB)
+<br>
 
-**Industrial & IoT** &nbsp;
-![CODESYS](https://img.shields.io/badge/CODESYS-E2001A)
-![Allen-Bradley](https://img.shields.io/badge/Studio%205000-B71C1C)
-![OPC UA](https://img.shields.io/badge/OPC%20UA-0069B4)
-![Modbus](https://img.shields.io/badge/Modbus%20TCP-444444)
-![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)
-![AWS IoT](https://img.shields.io/badge/AWS%20IoT%20Core-232F3E?logo=amazonwebservices&logoColor=white)
+<p align="center">
+  <sub>Taking on select projects — private LLM deployment, industrial automation and IoT, app and web development.</sub><br><br>
+  <a href="mailto:nszeeshankhalid@gmail.com"><b>nszeeshankhalid@gmail.com</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://manxlr.click"><b>manxlr.click</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zeeshan-khalid-3b681030/"><b>LinkedIn</b></a>
+</p>
 
-**Web & Apps** &nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-
----
-
-<div align="center">
-
-### Let's work together
-
-Private LLM deployment · Industrial automation & IoT · App and website development
-
-**[nszeeshankhalid@gmail.com](mailto:nszeeshankhalid@gmail.com)** · **[manxlr.click](https://manxlr.click)** · **[LinkedIn](https://www.linkedin.com/in/zeeshan-khalid-3b681030/)**
-
-*"Automation is the future, and I am here to build it."*
-
-</div>
+<p align="center"><sub><i>Automation is the future, and I am here to build it.</i></sub></p>
